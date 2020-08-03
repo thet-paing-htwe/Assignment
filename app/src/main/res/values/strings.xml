@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Assignments</string>
+    <string name="shiptitle">Package &amp; Shiping</string>
+    <string name="weight">1.5kg</string>
+    <string name="wpp">wight/piece</string>
+    <string name="size">20cm*15cm*10cm</string>
+    <string name="spp">size/piece</string>
+    <string name="processingtime">Ships out within 5days</string>
+    <string name="process">Processing Time</string>
+    <string name="shipaddr">Ship Address</string>
+    <string name="delivermethod">Delivery Method</string>
+    <string name="deltime">Delivery Time</string>
+    <string name="cost">Cost</string>
+    <string name="tc">Tracking Carrier</string>
+    <string name="d1">8-15 Days</string>
+    <string name="d2">5-10 Days</string>
+    <string name="ks1">KS-5,000</string>
+    <string name="ks2">KS-270,000</string>
+    <string name="dl1">MGL Delivery</string>
+    <string name="dl2">DHL</string>
+    <string name="airname">Jog Air Mash Sumer Sneaker Shoes Sports Slip-on Max Size 46 Atrietcs Shoes</string>
+    <string name="from">From Tienjin</string>
+    <string name="minorder">Minimum  Order 5 Pcs</string>
+    <string name="price">Ks-12,500</string>
+    <string name="pcs">/Pcs</string>
+    <string name="sold">28 Sold</string>
+    <string name="POption">Product Option</string>
+    <string name="select">Select</string>
+    <string name="address">Russia, S.Petersburg  </string>
+    <string name="addr2">196048 RU</string>
+    <string name="addr3">Milionnaya street 29,</string>
+    <string name="addr4">flat 10</string>
+    <string name="mission">Be it the most sought-after technology, we cater it in the most accessible manner. Representing splendid technology solutions, eTechMavens delivers genuine promises and assists you make every dream possible. Consistently delivering intuitive and inventive solutions which comprehend your dreams.
+Our Mobile App Development services, open source assistance, and Web App development services are efficiently delivered with optimal quality and on-time. Building lifelong relationships and focusing on high-quality delivery standards, We believe in your smallest ideas, and as they truly say “Versatility is the call of the market”
+        From providing amicable work atmosphere for our team of mavericks, eTechMavens family has truly being inspired by technology and human touch. Work-life balance, celebrating events, occasions, all over the foundation of friendship, we are true mavericks when it comes to work as a TEAM.
+    </string>
+
+
+
+</resources>
